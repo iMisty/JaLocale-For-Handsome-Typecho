@@ -5,7 +5,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * ja.php
  * Author     : Miya
  * Date       : 2018/8/9
- * Version    : 0.02
+ * Version    : 0.33
  * Description: Japanese Locale in Handsome Theme
  */
 class Usr_Lang_ja extends Lang {
