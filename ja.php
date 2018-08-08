@@ -5,7 +5,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * ja.php
  * Author     : Miya
  * Date       : 2018/8/9
- * Version    : 0.01
+ * Version    : 0.02
  * Description: Japanese Locale in Handsome Theme
  */
 class Usr_Lang_ja extends Lang {
@@ -43,6 +43,7 @@ class Usr_Lang_ja extends Lang {
             '最后更新' => '最新の投稿',
             '最新评论' => '最新コメント',
             '随机文章' => 'ランダム',
+            '标签云' => 'タグ',
             // 文章页
             '最后修改' => '最後更新',
             '发表评论' => 'コメントする',
