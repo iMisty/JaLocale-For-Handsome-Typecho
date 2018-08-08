@@ -1,1 +1,3 @@
 # Typecho-Handsome-JaLocale
+
+// TODO
