@@ -62,6 +62,7 @@ class Usr_Lang_ja extends Lang {
     }
 
     public function dateFormat() {
+        // TODO
         return "月のM Y D日";
     }
 
