@@ -177,7 +177,7 @@ class Usr_Lang_ja extends Lang {
     }
 
     public function dateFormat() {
-        return "Y年 M D";
+        return "Y年 m月 d日";
     }
 
 }
