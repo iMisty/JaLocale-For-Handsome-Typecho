@@ -1,6 +1,6 @@
 # Typecho-Handsome-JaLocale
 
-在 Handsome 主题中使用日文界面\
+在 Handsome 主题中使用日文界面
 
 ~~娱乐用，应该不会有人去特意把主页弄成日文吧~~
 
