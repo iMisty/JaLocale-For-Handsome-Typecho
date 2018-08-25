@@ -4,8 +4,8 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 /**
  * ja.php
  * Author     : Miya
- * Date       : 2018/8/9
- * Version    : 0.88
+ * Date       : 2018/8/25
+ * Version    : 0.89
  * Description: Japanese Locale in Handsome Theme
  */
 class Usr_Lang_ja extends Lang {
@@ -57,7 +57,7 @@ class Usr_Lang_ja extends Lang {
             '文章数目' => '記事数',
             '评论数目' => 'コメント数',
             '运行天数' => '稼動天数',
-            '最后更新' => '最後の投稿',
+            '最后更新' => '最後更新',
             '最新评论' => '最新コメント',
             '随机文章' => 'ランダム',
             '标签云' => 'タグ',
@@ -117,7 +117,7 @@ class Usr_Lang_ja extends Lang {
             '微博' => 'ウェイボー',
             '用户名或电子邮箱' => 'ユーザーネームとEメール',
             '地址' => 'アドレス',
-            '邮箱 (必填,将保密)' => 'メール (必要です)',
+            '邮箱 (必填,将保密)' => 'メール (必須)',
             '表情' => '絵文字',
             // 日期格式化'
             '%d 年前'   => '%d 年前',
